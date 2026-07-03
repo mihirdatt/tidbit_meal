@@ -4,6 +4,7 @@ fonts/* linguist-vendored
 icons/* linguist-vendored
 js/* linguist-vendored
 css/* linguist-vendored
+css/less* linguist-vendored
 Fp_img/* linguist-vendored
 images/* linguist-vendored
 images2/* linguist-vendored
