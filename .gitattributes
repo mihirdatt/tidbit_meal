@@ -1,14 +1,3 @@
-scss/* linguist-vendored
-fonts/* linguist-vendored
-icons/* linguist-vendored
-js/* linguist-vendored
-css/* linguist-vendored
-Fp_img/* linguist-vendored
-images/* linguist-vendored
-images2/* linguist-vendored
-js/* linguist-vendored
-js/custom.js linguist-vendored=false
-js/main.js linguist-vendored=false
 
 # Root-level vendor assets
 css/less/** linguist-vendored
