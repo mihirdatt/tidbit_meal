@@ -11,15 +11,15 @@ js/custom.js linguist-vendored=false
 js/main.js linguist-vendored=false
 
 # Root-level vendor assets
-css/less/* linguist-vendored
-css/lib/* linguist-vendored
+css/less/** linguist-vendored
+css/lib/** linguist-vendored
 css/bootstrap.min.css linguist-vendored
 css/font-awesome.min.css linguist-vendored
 css/animate.css linguist-vendored
 css/animate.min.css linguist-vendored
 css/animsition.min.css linguist-vendored
-icons/* linguist-vendored
-fonts/* linguist-vendored
+icons/** linguist-vendored
+fonts/** linguist-vendored
 
 js/animsition.min.js linguist-vendored
 js/bootstrap-slider.min.js linguist-vendored
@@ -39,13 +39,13 @@ js/markerclusterer.min.js linguist-vendored
 js/tether.min.js linguist-vendored
 
 # Admin dashboard template — only vendor the assets, not the .php files
-admin/css/* linguist-vendored
-admin/js/* linguist-vendored
-admin/sass/* linguist-vendored
-admin/icons/* linguist-vendored
+admin/css/** linguist-vendored
+admin/js/** linguist-vendored
+admin/sass/** linguist-vendored
+admin/icons/** linguist-vendored
 
 # Food provider panel — same template
-Foodprovider_panel/css/* linguist-vendored
-Foodprovider_panel/js/* linguist-vendored
-Foodprovider_panel/sass/* linguist-vendored
-Foodprovider_panel/icons/* linguist-vendored
+Foodprovider_panel/css/** linguist-vendored
+Foodprovider_panel/js/** linguist-vendored
+Foodprovider_panel/sass/** linguist-vendored
+Foodprovider_panel/icons/** linguist-vendored
