@@ -1,13 +1,40 @@
-# Vendor out non-authored/generated code from language stats
-scss/* linguist-vendored
-fonts/* linguist-vendored
-icons/* linguist-vendored
-js/* linguist-vendored
-css/* linguist-vendored
-Fp_img/* linguist-vendored
-images/* linguist-vendored
-images2/* linguist-vendored
 
-js/* linguist-vendored
-js/custom.js linguist-vendored=false
-js/main.js linguist-vendored=false
+# Root-level vendor assets
+css/less/* linguist-vendored
+css/lib/* linguist-vendored
+css/bootstrap.min.css linguist-vendored
+css/font-awesome.min.css linguist-vendored
+css/animate.css linguist-vendored
+css/animate.min.css linguist-vendored
+css/animsition.min.css linguist-vendored
+icons/* linguist-vendored
+fonts/* linguist-vendored
+
+js/animsition.min.js linguist-vendored
+js/bootstrap-slider.min.js linguist-vendored
+js/bootstrap.min.js linguist-vendored
+js/headroom.js linguist-vendored
+js/headroom.min.js linguist-vendored
+js/infobox_packed.js linguist-vendored
+js/infobox_packed.min.js linguist-vendored
+js/jquery-ui.min.js linguist-vendored
+js/jquery.min.js linguist-vendored
+js/jquery.googlemap.js linguist-vendored
+js/jquery.googlemap.min.js linguist-vendored
+js/jquery.isotope.min.js linguist-vendored
+js/mapbox.js linguist-vendored
+js/markerclusterer.js linguist-vendored
+js/markerclusterer.min.js linguist-vendored
+js/tether.min.js linguist-vendored
+
+# Admin dashboard template — only vendor the assets, not the .php files
+admin/css/* linguist-vendored
+admin/js/* linguist-vendored
+admin/sass/* linguist-vendored
+admin/icons/* linguist-vendored
+
+# Food provider panel — same template
+Foodprovider_panel/css/* linguist-vendored
+Foodprovider_panel/js/* linguist-vendored
+Foodprovider_panel/sass/* linguist-vendored
+Foodprovider_panel/icons/* linguist-vendored
